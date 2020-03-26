@@ -1,0 +1,19 @@
+ID                              | ID
+Time                            | Time
+Record Type                     | Type
+Historic Glucose (mmol/L)       | HistBG
+Scan Glucose (mmol/L)           | ScanBG
+Non-numeric Rapid-Acting Insulin| NNRapid
+Rapid-Acting Insulin (units)    | Rapid
+Non-numeric Food                | NNFood
+Carbohydrates (grams)           | Carbs
+Non-numeric Long-Acting Insulin | nnLong
+Long-Acting Insulin (units)     | Long
+Notes                           | Notes
+Strip Glucose (mmol/L)          | StripBG
+Ketone (mmol/L)                 | Ketone
+Meal Insulin (units)            | MealInsulin
+Correction Insulin (units)      | CorrectionInsulin
+User Change Insulin (units)     | UserChangeInsulin
+Previous Time                   | DateTimeOld
+Updated Time                    | DateTimeNew
